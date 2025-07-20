@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Khairat aka KhayrJ6
+
+Welcome to my github corner where **data meets storytelling**, **Insights fuels innovation** and **tech gets personal**
+
+## About ME!
+I'm a data analyst and scientist with a stance for transforming raw data into compelling insights and solutions that actually matter. I empower others by breaking down the complexity of data, AI and tech into content that inspires.
 
 <!--
 **KhayrJ6/KhayrJ6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Dashboards and analytics
+- 🌱 I’m currently learning Machine Learning
+
